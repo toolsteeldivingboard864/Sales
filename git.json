@@ -1,0 +1,32 @@
+[
+  {
+    "p_rel_url": "toolsteeldivingboard864/Sales/refs/heads/main/Data/categories.csv",
+    "p_sink_folder": "categories",
+    "p_sink_file": "categories.csv"
+  },
+  {
+    "p_rel_url": "toolsteeldivingboard864/Sales/refs/heads/main/Data/subcategories.csv",
+    "p_sink_folder": "subcategories",
+    "p_sink_file": "subcategories.csv"
+  },
+  {
+    "p_rel_url": "toolsteeldivingboard864/Sales/refs/heads/main/Data/products.csv",
+    "p_sink_folder": "products",
+    "p_sink_file": "products.csv"
+  },
+  {
+    "p_rel_url": "toolsteeldivingboard864/Sales/refs/heads/main/Data/customers.csv",
+    "p_sink_folder": "customers",
+    "p_sink_file": "customers.csv"
+  },
+  {
+    "p_rel_url": "toolsteeldivingboard864/Sales/refs/heads/main/Data/sales.csv",
+    "p_sink_folder": "sales",
+    "p_sink_file": "sales.csv"
+  },
+  {
+    "p_rel_url": "toolsteeldivingboard864/Sales/refs/heads/main/Data/store.csv",
+    "p_sink_folder": "store",
+    "p_sink_file": "store.csv"
+  }
+]
